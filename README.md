@@ -1,4 +1,6 @@
-- 👋 olá,  sou o professor 
+- 👋 olá,  sou o professor
+- estou me desenvolvendo na linguagem Javascript.
+- utilizo esse espaço para compartilhar meus projetos  
 
 <!---
 Profwlt/Profwlt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
